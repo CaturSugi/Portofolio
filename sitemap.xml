@@ -9,21 +9,28 @@
     </url>
 
     <url>
-        <loc>https://catursugi.github.io/Calculator/</loc>
+        <loc>https://portofolio-catur-sugi.vercel.app/#home</loc>
         <lastmod>2026-04-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://simpelunisayk.gamer.gd/</loc>
+        <loc>https://portofolio-catur-sugi.vercel.app/#about</loc>
         <lastmod>2026-04-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://ithelpdesk.gamer.gd/</loc>
+        <loc>https://portofolio-catur-sugi.vercel.app/#skills</loc>
+        <lastmod>2026-04-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://portofolio-catur-sugi.vercel.app/#projects</loc>
         <lastmod>2026-04-21</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
