@@ -9,6 +9,10 @@
       "dest": "/robots.txt"
     },
     {
+      "src": "/CV_Catur Sugi Ak.pdf",
+      "dest": "/CV_Catur Sugi Ak.pdf"
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
