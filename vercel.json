@@ -9,8 +9,20 @@
       "dest": "/robots.txt"
     },
     {
-      "src": "/CV_Catur Sugi Ak.pdf",
-      "dest": "/CV_Catur Sugi Ak.pdf"
+      "src": "/style.css",
+      "dest": "/style.css"
+    },
+    {
+      "src": "/main.js",
+      "dest": "/main.js"
+    },
+    {
+      "src": "/src/(.*)",
+      "dest": "/src/$1"
+    },
+    {
+      "src": "/(.*\\.(png|jpg|jpeg|gif|svg|ico|webp|woff|woff2|ttf|otf|mp3|pdf))",
+      "dest": "/$1"
     },
     {
       "src": "/(.*)",
