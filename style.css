@@ -1146,7 +1146,8 @@ noscript {
 .cta svg,
 .project-box,
 footer {
-    position: relative
+    position: relative;
+    z-index: 1
 }
 
 .projects-section-container {
